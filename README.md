@@ -1,5 +1,5 @@
 # reaction-timer
-
+A simple reaction game I made to get familiar with Vue JS
 ## Project setup
 ```
 npm install
